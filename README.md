@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Jae G. Lozano</h1>
 <h3 align="center">A Full-Stack Developer from Philippines</h3>
-<img align="right" alt="coding" width="600" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
+<img align="right" alt="coding" width="500" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjglozano&label=Profile%20views&color=0e75b6&style=flat" alt="rjglozano" /> </p>
 
