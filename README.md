@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjglozano&label=Profile%20views&color=0e75b6&style=flat" alt="rjglozano" /> </p>
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Next.JS And In-Depth CSS for Responsive Design **
 
 - 💬 Ask me about **REACT.js, NODE.js**
 
