@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ryan.rjl38@gmail.com**
 
-- ⚡ Fun fact **I am approachable, and funny guy**
+- ⚡ Fun fact **I am approachable, and willing to learn new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
