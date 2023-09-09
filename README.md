@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ryan Jae G. Lozano</h1>
-<h3 align="center">A Full-Stack Developer from Philippines</h3>
+<h3 align="center">Full-Stack Developer from Philippines</h3>
 <img align="right" alt="coding" width="500" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjglozano&label=Profile%20views&color=0e75b6&style=flat" alt="rjglozano" /> </p>
 
-- 🌱 I’m currently learning **Next.JS, In-Depth CSS for Responsive Design, Django and PostgreSQL**
+- 🌱 I’m currently learning **Next.JS and Django**
 
 - 💬 Ask me about **REACT.js, NODE.js**
 
 - 📫 How to reach me **ryan.rjl38@gmail.com**
 
-- ⚡ Fun fact **I am approachable, active and willing to learn new things.**
+- ⚡ Fun fact **I am approachable, flexible and willing to learn new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
