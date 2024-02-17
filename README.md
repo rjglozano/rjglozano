@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjglozano&label=Profile%20views&color=0e75b6&style=flat" alt="rjglozano" /> </p>
 
-- 🌱 I’m currently learning **Next.JS and Django**
-
-- 💬 Ask me about **REACT.js, NODE.js**
+- 🌱 I’m currently learning **Next.JS and Spring Boot**
 
 - 📫 How to reach me **ryan.rjl38@gmail.com**
 
